@@ -1,6 +1,6 @@
 # 质因数分解计算器
 
-![界面截图](screenshot.png) <!-- 请手动添加程序截图 -->
+![界面截图]("C:\Users\xiexu\Pictures\质数计算器界面截图.png") <!-- 请手动添加程序截图 -->
 
 基于PyQt6开发的图形化质因数分解工具，支持任意正整数分解计算。
 
@@ -20,4 +20,4 @@
 ```bash
 pip install PyQt6
 ```
-[GitHub仓库地址](https://github.com/xiexuanchi/Prime-number-calculator)
+[GitHub个人主页](https://github.com/xiexuanchi)
